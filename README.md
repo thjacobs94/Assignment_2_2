@@ -15,7 +15,7 @@ Characterizing the plot with print of line of best fit characteristics:
 ## We utilized the print function "print (f"...={...}") with ... being our metric of interest (slope, intercept, etc.). To evaluate the diferent metrics. 
     
 ## Additionally, we enhanced our plot (the scatter plot with a fitted linear regression line) with text annotation.
-    To this end we added the linear regression equation with both slope and intercept, the MSE and the r value.
+## To this end we added the linear regression equation with both slope and intercept, the MSE and the r value.
 
 ## We found these values and added them to the generated plots using both python and R.
 
