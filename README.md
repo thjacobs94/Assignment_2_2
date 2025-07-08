@@ -1,5 +1,3 @@
-Assignment 3 README File
-
 # Assignment 2 Overview
 Generated a Linear Regression model in assignment 2 and uploaded a REPO using python and R to generate the plots. 
 
